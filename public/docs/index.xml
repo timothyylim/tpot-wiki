@@ -13,14 +13,14 @@
       <link>http://localhost:1313/docs/festivals/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/festivals/</guid>
-      <description>&lt;h1 id=&#34;festivals&#34;&gt;&#xA;  Festivals&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#festivals&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the festivals page. Here we will explore various festivals around the world.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;festivals&#34;&gt;&#xA;  Festivals&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#festivals&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;TPOT has generated a number of festivals that have been celebrated by the community:&lt;/p&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;&#xA;  2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;treeweekhttpssimonohlercomtreeweek&#34;&gt;&#xA;  &lt;a href=&#34;https://simonohler.com/treeweek&#34;&gt;TREEWEEK&lt;/a&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#treeweekhttpssimonohlercomtreeweek&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;jesscamp3httpswwwtickettailorcomeventsliberalisltd982574&#34;&gt;&#xA;  &lt;a href=&#34;https://www.tickettailor.com/events/liberalisltd/982574&#34;&gt;JessCamp3&lt;/a&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#jesscamp3httpswwwtickettailorcomeventsliberalisltd982574&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Projects</title>
       <link>http://localhost:1313/docs/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/projects/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;&#xA;  Projects&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#projects&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cuties.app/&#34;&gt;cuties&lt;/a&gt; - Find your tpot friends, lovers, or collaborators.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hypertextcollective.com&#34;&gt;The Hypertext Collective&lt;/a&gt; - A collective of artists, writers, and creators who are exploring the possibilities of hypertext.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://tpot.wiki&#34;&gt;The TPOT Wiki&lt;/a&gt; - recursion, but make it a wiki.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contribute your projects &lt;a href=&#34;https://github.com/timothyylim/tpot-wiki&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
