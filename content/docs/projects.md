@@ -7,7 +7,7 @@ date: 2024-10-15
 
 - [cuties](https://cuties.app/) - Find your tpot friends, lovers, or collaborators.
 - [The Hypertext Collective](https://hypertextcollective.com) - A collective of artists, writers, and creators who are exploring the possibilities of hypertext.
-- [The TPOT Wiki](https://tpot.wiki) - recursion, but make it a wiki.
+- [The TPOT Wiki](/) - recursion, but make it a wiki.
 
 
 
