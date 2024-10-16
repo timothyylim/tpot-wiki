@@ -12,6 +12,4 @@ date: 2024-10-15
 - [The TPOT Wiki](/) - recursion, but make it a wiki.
 - [Twitter Archive Toolkit](https://github.com/DefenderOfBasic/twitter-archive-toolkit) - Swiss army knife for experiments with data from the Community Archive, by [DefenderOfBasic](https://x.com/DefenderOfBasic)
 
-
-
 Contribute your projects [here](https://github.com/timothyylim/tpot-wiki).
