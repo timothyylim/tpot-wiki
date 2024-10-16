@@ -12,4 +12,4 @@ The code for this site is hosted on [Github](https://github.com/timothyylim/tpot
 
 ## Who is running this thing?
 
-TPOT wiki is currently maintained by [Timothy Lim](https://timothylim.is).
+TPOT wiki is currently maintained by [Tim](https://timothylim.is).
