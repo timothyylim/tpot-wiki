@@ -8,7 +8,7 @@ TPOT stands for 'this part of Twitter' and that's about the last that can defini
 
 ## How Can I Contribute?
 
-The code for this site is hosted on [Github](https://github.com/timothyylim/tpot-wiki) and you'll have to make a pull request to suggest changes. More user-friendly documentation would be nice if you would like to contribute it. You can also post on Twitter / X and tag [Tim](https://twitter.com/wayfaring_tim). 
+The code for this site is hosted on [Github](https://github.com/timothyylim/tpot-wiki) and you'll have to make a pull request to suggest changes. More user-friendly documentation would be nice if you would like to contribute it. You can also post on Twitter / X and tag [@wayfaring_tim](https://twitter.com/wayfaring_tim). 
 
 ## Who is running this thing?
 
