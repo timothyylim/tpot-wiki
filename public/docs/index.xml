@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on TPOT wiki</title>
+    <title>Docs on tpot wiki</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs on TPOT wiki</description>
+    <description>Recent content in Docs on tpot wiki</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>

@@ -1,6 +1,6 @@
 {
-  "name": "TPOT wiki",
-  "short_name": "TPOT wiki",
+  "name": "tpot wiki",
+  "short_name": "tpot wiki",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
