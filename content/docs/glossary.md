@@ -41,3 +41,4 @@ A call to action to do 100 things in order to get good at something. [[1]](https
 
 Alternate glossaries and lists: 
 - [tpot lore and canon](https://docs.google.com/document/d/1zHITIv4L_a75XeE0Yq09BmBEoYOBZtd00ir1tkIYG5E/edit?tab=t.0#heading=h.ajgdt9ncvzx7) by [Christine](https://x.com/christineist)
+- [prerat's glossary](https://notes.prerat.com/Glossary) by [prerat](https://x.com/prerationalist)
