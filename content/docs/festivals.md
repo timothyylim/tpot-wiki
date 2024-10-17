@@ -5,7 +5,7 @@ date: 2024-10-15
 
 # Festivals
 
-TPOT has generated a number of festivals that have been celebrated by the community:
+tpot has generated a number of festivals that have been celebrated by the community:
 
 ## 2024
 

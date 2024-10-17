@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on TPOT wiki</title>
-    <link>https://tpot.wiki/docs/</link>
+    <link>http://localhost:1313/docs/</link>
     <description>Recent content in Docs on TPOT wiki</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tpot.wiki/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glossary</title>
+      <link>http://localhost:1313/docs/glossary/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/glossary/</guid>
+      <description>&lt;h1 id=&#34;meta&#34;&gt;&#xA;  meta&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#meta&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;What could this place be? Some thoughts:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;It shouldn&amp;rsquo;t be too bloated, it should be a pointer to different resources but not be in charge of hosting or handling them&lt;/li&gt;&#xA;&lt;li&gt;If there is a jobs board, a dating app or other services, this wiki should only link to them, this is a map first and foremost&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Some resources:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1zHITIv4L_a75XeE0Yq09BmBEoYOBZtd00ir1tkIYG5E/edit?tab=t.0#heading=h.ajgdt9ncvzx7&#34;&gt;tpot lore &amp;amp; canon&lt;/a&gt; by &lt;a href=&#34;https://x.com/christineist&#34;&gt;Christine&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Festivals</title>
-      <link>https://tpot.wiki/docs/festivals/</link>
+      <link>http://localhost:1313/docs/festivals/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://tpot.wiki/docs/festivals/</guid>
+      <guid>http://localhost:1313/docs/festivals/</guid>
       <description>&lt;h1 id=&#34;festivals&#34;&gt;&#xA;  Festivals&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#festivals&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;TPOT has generated a number of festivals that have been celebrated by the community:&lt;/p&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;&#xA;  2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;treeweekhttpssimonohlercomtreeweek&#34;&gt;&#xA;  &lt;a href=&#34;https://simonohler.com/treeweek&#34;&gt;TREEWEEK&lt;/a&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#treeweekhttpssimonohlercomtreeweek&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://x.com/i/broadcasts/1jMJgBAYBDeGL&#34;&gt;TREEWEEK debrief with Richard D. Bartlett and Simon&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;jesscamp3httpswwwtickettailorcomeventsliberalisltd982574&#34;&gt;&#xA;  &lt;a href=&#34;https://www.tickettailor.com/events/liberalisltd/982574&#34;&gt;JessCamp3&lt;/a&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#jesscamp3httpswwwtickettailorcomeventsliberalisltd982574&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Meta</title>
-      <link>https://tpot.wiki/docs/meta/</link>
+      <link>http://localhost:1313/docs/meta/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://tpot.wiki/docs/meta/</guid>
-      <description>&lt;h1 id=&#34;meta&#34;&gt;&#xA;  meta&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#meta&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;What could this place be? Some thoughts:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;It shouldn&amp;rsquo;t be too bloated, it should be a pointer to different resources but not be in charge of hosting or handling them&lt;/li&gt;&#xA;&lt;li&gt;If there is a jobs board, a dating app or other services, this wiki should only link to them, this is a map first and foremost&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/docs/meta/</guid>
+      <description>&lt;h1 id=&#34;meta&#34;&gt;&#xA;  meta&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#meta&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;What could this place be? Some thoughts:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;It shouldn&amp;rsquo;t be too bloated, it should be a pointer to different resources but not be in charge of hosting or handling them&lt;/li&gt;&#xA;&lt;li&gt;If there is a jobs board, a dating app or other services, this wiki should only link to them, this is a map first and foremost&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Some resources:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1zHITIv4L_a75XeE0Yq09BmBEoYOBZtd00ir1tkIYG5E/edit?tab=t.0#heading=h.ajgdt9ncvzx7&#34;&gt;tpot lore &amp;amp; canon&lt;/a&gt; by &lt;a href=&#34;https://x.com/christineist&#34;&gt;Christine&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://tpot.wiki/docs/projects/</link>
+      <link>http://localhost:1313/docs/projects/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://tpot.wiki/docs/projects/</guid>
-      <description>&lt;h1 id=&#34;projects&#34;&gt;&#xA;  Projects&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#projects&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cuties.app/&#34;&gt;cuties&lt;/a&gt; - Find your tpot friends, lovers, or collaborators. By &lt;a href=&#34;https://x.com/christineist&#34;&gt;Christine&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/TheExGenesis/community-archive&#34;&gt;Community Archive&lt;/a&gt; - The goals of this project are (1) create a public domain dataset so that we can analyze &amp;amp; build apps on top of our own data, commercial or otherwise (2) develop an open workflow for archival that people can self host or create private archives for their communities if they wish.  By &lt;a href=&#34;https://x.com/exgenesis/status/1832836292876410903&#34;&gt;xiq&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hypertextcollective.com&#34;&gt;The Hypertext Collective&lt;/a&gt; - A collective of artists, writers, and creators who are exploring the possibilities of hypertext. By &lt;a href=&#34;https://x.com/wayfaring_tim&#34;&gt;tim&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://tpot.wiki/&#34;&gt;The TPOT Wiki&lt;/a&gt; - recursion, but make it a wiki.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/DefenderOfBasic/twitter-archive-toolkit&#34;&gt;Twitter Archive Toolkit&lt;/a&gt; - Swiss army knife for experiments with data from the Community Archive, by &lt;a href=&#34;https://x.com/DefenderOfBasic&#34;&gt;DefenderOfBasic&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contribute your projects &lt;a href=&#34;https://github.com/timothyylim/tpot-wiki&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/projects/</guid>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;&#xA;  Projects&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#projects&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cuties.app/&#34;&gt;cuties&lt;/a&gt; - Find your tpot friends, lovers, or collaborators. By &lt;a href=&#34;https://x.com/christineist&#34;&gt;Christine&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/TheExGenesis/community-archive&#34;&gt;Community Archive&lt;/a&gt; - The goals of this project are (1) create a public domain dataset so that we can analyze &amp;amp; build apps on top of our own data, commercial or otherwise (2) develop an open workflow for archival that people can self host or create private archives for their communities if they wish.  By &lt;a href=&#34;https://x.com/exgenesis/status/1832836292876410903&#34;&gt;xiq&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hypertextcollective.com&#34;&gt;The Hypertext Collective&lt;/a&gt; - A collective of artists, writers, and creators who are exploring the possibilities of hypertext. By &lt;a href=&#34;https://x.com/wayfaring_tim&#34;&gt;tim&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;The TPOT Wiki&lt;/a&gt; - recursion, but make it a wiki.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/DefenderOfBasic/twitter-archive-toolkit&#34;&gt;Twitter Archive Toolkit&lt;/a&gt; - Swiss army knife for experiments with data from the Community Archive, by &lt;a href=&#34;https://x.com/DefenderOfBasic&#34;&gt;DefenderOfBasic&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contribute your projects &lt;a href=&#34;https://github.com/timothyylim/tpot-wiki&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

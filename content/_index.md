@@ -1,10 +1,10 @@
 # Welcome, traveller
 
-This is a non-definitive, highly biased, and completely organic wiki that aims to scope out the TPOT world.
+This is a non-definitive, highly biased, and completely organic wiki that aims to scope out the tpot world.
 
 ## What is TPOT?
 
-TPOT stands for 'this part of Twitter' and that's about the last that can definitively be said about it. Asking someone what TPOT is is like asking them to describe a rainbow, how they see it will never be how you see it. Our feeds on Twitter are just thin slits from which we are all viewing and reaching into this crazy show that is ultimately a personal hallucination. But from this hallucination, many wonderful things have sprung, and it is the goal of this site to catalogue and describe them.
+tpot stands for 'this part of Twitter' and that's about the last that can definitively be said about it. Asking someone what TPOT is is like asking them to describe a rainbow, how they see it will never be how you see it. Our feeds on Twitter are just thin slits from which we are all viewing and reaching into this crazy show that is ultimately a personal hallucination. But from this hallucination, many wonderful things have sprung, and it is the goal of this site to catalogue and describe them.
 
 ## How Can I Contribute?
 
