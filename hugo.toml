@@ -1,4 +1,4 @@
 baseURL = 'https://tpot.wiki/'
 languageCode = 'en-us'
-title = 'TPOT wiki'
+title = 'tpot wiki'
 theme = 'hugo-book' 
