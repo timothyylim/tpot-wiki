@@ -34,6 +34,10 @@ A call to action to do 100 things in order to get good at something. [[1]](https
 
 ### vibecamps
 
+## y 
+
+### you can just do things
+
 
 ---
 
