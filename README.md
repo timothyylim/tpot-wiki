@@ -1,6 +1,6 @@
-# TPOT Wiki
+# tpot Wiki
 
-Welcome to the **TPOT Wiki** repository, a static site built using [Hugo](https://gohugo.io/).
+Welcome to the **tpot Wiki** repository, a static site built using [Hugo](https://gohugo.io/).
 
 ```bash
 git clone https://github.com/timothyylim/tpot-wiki.git
