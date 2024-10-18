@@ -36,7 +36,7 @@ A call to action to do 100 things in order to get good at something. [[1]](https
 
 ## y 
 
-### you can just do things
+### you can just do things [[1]](https://x.com/shaiyanhkhan/status/1754197898814689379)
 
 
 ---
