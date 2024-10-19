@@ -57,6 +57,8 @@ tpot has generated a number of gatherings that have been celebrated by the commu
 
 ---
 
+*Edit [this file](https://github.com/timothyylim/tpot-wiki/blob/main/content/docs/gatherings.md) to add more gatherings!*
+
 Notable gatherings for which no category exists yet:
 - [medley, Berlin](https://www.medley.berlin/)
 
