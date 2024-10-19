@@ -1,15 +1,59 @@
 ---
-title: "Festivals"
+title: "Gatherings"
 date: 2024-10-15
 ---
 
-# Festivals
+# Gatherings
 
-tpot has generated a number of festivals that have been celebrated by the community:
+tpot has generated a number of gatherings that have been celebrated by the community:
 
 ## 2024
 
-### [TREEWEEK](https://simonohler.com/treeweek)
+
+### January
+- **Vibehole** by Maeby  
+  Near Antalya, Turkey
+
+- **Metta Dance Party** with [Tasshin](https://x.com/tasshinfogleman)  
+  Jan 20, Berkeley, California
+
+### February
+- **Caulicamp** by [Cauliflower](https://x.com/cauliflwr_human)  
+  Feb 2-5, New South Wales, Australia
+
+- **PNW TPOT Regional Gathering** by [Steven Fan](https://x.com/_StevenFan)  
+  Feb 18, Portland, Oregon
+
+### April
+- **Vibeclipse** by [Vibecamp](https://vibe.camp)  
+  Apr 5-8, Outside of Austin, Texas
+
+### May
+- **JessCamp3** by Jess  
+  May 16-20, London, England
+
+- **Pepicamp** by Pepi  
+  May 23-27, Camping in the Netherlands
+
+### June
+- **Vibecamp3** by [Vibecamp](https://vibe.camp)  
+  Jun 13-16, Darlington, Maryland
+
+
+### September 
+- **[TREEWEEK](https://simonohler.com/treeweek)** by [Simon](https://x.com/simon_ohler)  
+  September 24-30, Seegut Blaue Blume, near Berlin, Germany 
+  <!--
   - [TREEWEEK debrief with Richard D. Bartlett and Simon](https://x.com/i/broadcasts/1jMJgBAYBDeGL)
-  
-### [JessCamp3](https://www.tickettailor.com/events/liberalisltd/982574)
+  --> 
+
+## 2023 
+
+### October 
+- [XiqWeek](https://xiqweek.brick.do/) by [xiq](https://x.com/exgenesis)
+  Oct 5 - 9, Porto, Portugal 
+
+---
+
+Other lists of gatherings: 
+- [vibecamp events](https://vibe.camp/events/)
