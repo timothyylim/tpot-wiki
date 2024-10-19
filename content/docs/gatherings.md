@@ -10,7 +10,7 @@ aliases:
 tpot has generated a number of gatherings that have been celebrated by the community:
 
 
-## 2024 
+## 2025
 
 ### February
 - **[Whorehole](https://www.tickettailor.com/events/whorehole/1307302)** by [whoreaborealis](https://x.com/Actualwebutante)  
