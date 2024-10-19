@@ -41,6 +41,9 @@ tpot has generated a number of gatherings that have been celebrated by the commu
 - **Vibecamp3** by [Vibecamp](https://vibe.camp)  
   Jun 13-16, Darlington, Maryland
 
+### August 
+- [**CascadeCamp**](https://www.pnwtpot.com/) by [@_StevenFan](https://x.com/_StevenFan), [@Rhizomia_](https://x.com/Rhizomia_) and [@Sassafrassalass](https://x.com/Sassafrassalass)  
+  Aug 16-18, Portland, Oregon, USA
 
 ### September 
 - **[TREEWEEK](https://simonohler.com/treeweek)** by [Simon](https://x.com/simon_ohler)  
