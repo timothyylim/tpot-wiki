@@ -9,6 +9,13 @@ aliases:
 
 tpot has generated a number of gatherings that have been celebrated by the community:
 
+
+## 2024 
+
+### February
+- **[Whorehole](https://www.tickettailor.com/events/whorehole/1307302)** by [whoreaborealis](https://x.com/Actualwebutante)  
+  Feb 6 - Feb 10, Siglufjörður, Iceland
+
 ## 2024
 
 
