@@ -1,6 +1,8 @@
 ---
 title: "Gatherings"
 date: 2024-10-15
+aliases: 
+  - /festivals
 ---
 
 # Gatherings
