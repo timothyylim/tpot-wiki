@@ -55,5 +55,8 @@ tpot has generated a number of gatherings that have been celebrated by the commu
 
 ---
 
+Notable gatherings for which no category exists yet:
+- [medley, Berlin](https://www.medley.berlin/)
+
 Other lists of gatherings: 
 - [vibecamp events](https://vibe.camp/events/)
