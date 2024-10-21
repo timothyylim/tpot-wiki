@@ -11,5 +11,6 @@ date: 2024-10-15
 - [The Hypertext Collective](https://hypertextcollective.com) - A collective of artists, writers, and creators who are exploring the possibilities of hypertext. By [tim](https://x.com/wayfaring_tim)
 - [The TPOT Wiki](/) - recursion, but make it a wiki.
 - [Twitter Archive Toolkit](https://github.com/DefenderOfBasic/twitter-archive-toolkit) - Swiss army knife for experiments with data from the Community Archive, by [DefenderOfBasic](https://x.com/DefenderOfBasic)
+- [Microsolidarity](https://www.microsolidarity.cc/) - a community building practice that creates structures for belonging, by [RichDecibels](https://x.com/RichDecibels)
 
 Contribute your projects [here](https://github.com/timothyylim/tpot-wiki).
