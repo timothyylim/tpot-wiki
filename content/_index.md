@@ -14,6 +14,7 @@ tpot stands for 'this part of Twitter' and that's about the last that can defini
 - [what the hell is this "tpot" thing](https://crystalxduan.substack.com/p/what-the-hell-is-this-tpot-thing)
 - [Explaining the Twitter Postrat Scene](https://www.lesswrong.com/posts/rtM3jFaoQn3eoAiPh/explaining-the-twitter-postrat-scene)
 - [Christine’s Guide to (one of many) TPOT(s)](https://docs.google.com/document/d/1Bd3PfKDL9pOM7YoxGbRBwO_qOWh6B7u5170Xw8VyK6s/mobilebasic#)
+- [HamisDoodles's map of TPOT](https://x.com/HamishDoodles/status/1824785053802737980)
 
 ## How Can I Contribute?
 
