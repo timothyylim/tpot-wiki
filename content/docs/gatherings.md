@@ -69,7 +69,7 @@ tpot has generated a number of gatherings that have been celebrated by the commu
 
 *Edit [this file](https://github.com/timothyylim/tpot-wiki/blob/main/content/docs/gatherings.md) to add more gatherings!*
 
-Interested in running a gathering? Here are some resources:
+Interested in running a gathering? Here are some resources to get you started:
 - [What we learned from a 3-month co-living experiment](https://richdecibels.substack.com/p/what-we-learned-from-a-3-month-co) by [Rich Decibels](https://x.com/richdecibels)
 
 Notable gatherings for which no category exists yet:
